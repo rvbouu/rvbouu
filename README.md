@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vanessa, @rvbouu
 - 👀 I’m interested in traveling, cars, and coding
-- 🌱 I’m currently learning front-end development
+- 🌱 I’m currently learning back-end development
 - 📫 How to reach me: Twitter|TikTok|Instagram - @lifeofbou
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I was featured in a Samsung commercial for the S8
