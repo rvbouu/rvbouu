@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vanessa, @rvbouu
-- 👀 I’m interested in traveling, cars, and coding
+- 👀 I love traveling, reading, cars, and coding
 - 🌱 I’m a full stack web developer
 - 📫 How to reach me: [Social Links](https://vanessa-links.netlify.app/)
 - 😄 Pronouns: she/her/hers
